@@ -1,0 +1,37 @@
+<html>
+<nav> 
+    <center>
+      <li><a href="index.html"> HOME </a></li>
+      <li><a href="apps.html"> DATA APP </a></li>
+      <li><a href="projects.html"> OTHER </a></li>
+  </nav>
+
+<br>
+<br>
+<br>
+<br>
+  <center>
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/lHVy1zVzzLMqhAFFW9DHbK8H9WY9Te25-D1WR0XCWE4/embed"></center></iframe> 
+
+</html>
+
+<style>
+nav{
+  background-color: white;
+}
+
+li{
+  display: inline;
+  padding: 15px;
+}
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+a:hover{
+  color: pink;
+}
+
+</style>
